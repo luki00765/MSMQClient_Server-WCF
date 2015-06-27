@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6C3440A4-0C6C-4807-B9AA-5EBD557DBC74" ModuleId="MSMQClient" />
+  <Module PersistentId="7ADC6C0F-1FEB-4294-AD05-FA69940FD08E" ModuleId="MSMQService" />
+</Modules>

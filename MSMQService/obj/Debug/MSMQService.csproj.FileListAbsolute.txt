@@ -1,0 +1,11 @@
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQService\bin\Debug\MSMQService.dll.config
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQService\bin\Debug\MSMQService.dll
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQService\bin\Debug\MSMQService.pdb
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQService\obj\Debug\MSMQService.dll
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQService\obj\Debug\MSMQService.pdb
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\bin\Debug\MSMQService.dll.config
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\bin\Debug\MSMQService.dll
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\bin\Debug\MSMQService.pdb
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\obj\Debug\MSMQService.csprojResolveAssemblyReference.cache
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\obj\Debug\MSMQService.dll
+C:\Users\Lukii\Desktop\MSMQClient\MSMQService\obj\Debug\MSMQService.pdb

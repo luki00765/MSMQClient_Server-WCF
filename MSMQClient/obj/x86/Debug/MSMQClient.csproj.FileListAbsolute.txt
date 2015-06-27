@@ -1,0 +1,25 @@
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MainWindow.baml
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MainWindow.g.cs
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\App.g.cs
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient_MarkupCompile.cache
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.g.resources
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+d:\panniebieski\documents\visual studio 2010\Projects\MSMQForBlogApp\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe.config
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe.config
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.exe
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.pdb
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csprojResolveAssemblyReference.cache
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\App.g.cs
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient_MarkupCompile.cache
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.g.resources
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.Properties.Resources.resources
+C:\Users\Lukii\Desktop\MSMQClient\MSMQClient\obj\x86\Debug\MSMQClient.csproj.GenerateResource.Cache
